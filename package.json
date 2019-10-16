@@ -1,0 +1,18 @@
+{
+  "name": "itsnotthathard-javascript",
+  "version": "1.0.0",
+  "description": "one of Its Not That Hard notes. On Javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "notes",
+    "javascript",
+    "uzzairwebstudio",
+    "Uzzair",
+    "Baharudin"
+  ],
+  "author": "Uzzair Baharudin",
+  "license": "MIT"
+}
